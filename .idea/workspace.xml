@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea37a5c9-fe2c-48fd-8aa0-58157617ed80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../amazontest/amazontest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazontest/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazontest/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazontest/src/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazontest/src/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/basetest/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/computer/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/electronics/ElectronicsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/homepage/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-12/week-12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/barclays/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/harrow/gov/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/nopcommerce/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/wcht/org/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Fire_Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Internet_Explorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Microsoft_Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/src/xcart/Multiple_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/week_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/basetest/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/homework1/Homework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/homework2/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/homework3/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/src/homework4/HomeWork4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/week_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basetest/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homepage/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotdeals/HotDealsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shopping/ShoppingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xcartdemo.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21KybMhec81EqIk1PQJigwKvzDt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Toshiba\homework\xcartdemo\drivers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basetest" />
+      <recent name="utility" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ShoppingTest.verifyThatUserShouldPlaceOrderSuccessfullyForAvengersFabrikationsPlushRelatedProducts">
+    <configuration name="HotDealsTest.verifyBestSellersProductsArrangeByRates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xcartdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hotdeals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hotdeals" />
+      <option name="MAIN_CLASS_NAME" value="hotdeals.HotDealsTest" />
+      <option name="METHOD_NAME" value="verifyBestSellersProductsArrangeByRates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotDealsTest.verifyBestSellersProductsArrangeByZToA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xcartdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hotdeals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hotdeals" />
+      <option name="MAIN_CLASS_NAME" value="hotdeals.HotDealsTest" />
+      <option name="METHOD_NAME" value="verifyBestSellersProductsArrangeByZToA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotDealsTest.verifyBestSellersProductsPriceArrangeHighToLow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xcartdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hotdeals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hotdeals" />
+      <option name="MAIN_CLASS_NAME" value="hotdeals.HotDealsTest" />
+      <option name="METHOD_NAME" value="verifyBestSellersProductsPriceArrangeHighToLow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingTest.verifyThatUserShouldClearShoppingCartSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xcartdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="shopping" />
+      <option name="MAIN_CLASS_NAME" value="shopping.ShoppingTest" />
+      <option name="METHOD_NAME" value="verifyThatUserShouldClearShoppingCartSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingTest.verifyThatUserShouldPlaceOrderSuccessfullyForAvengersFabrikationsPlushRelatedProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xcartdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="shopping" />
+      <option name="MAIN_CLASS_NAME" value="shopping.ShoppingTest" />
+      <option name="METHOD_NAME" value="verifyThatUserShouldPlaceOrderSuccessfullyForAvengersFabrikationsPlushRelatedProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShoppingTest.verifyThatUserShouldPlaceOrderSuccessfullyForAvengersFabrikationsPlushRelatedProducts" />
+        <item itemvalue="JUnit.ShoppingTest.verifyThatUserShouldClearShoppingCartSuccessfully" />
+        <item itemvalue="JUnit.HotDealsTest.verifyBestSellersProductsArrangeByRates" />
+        <item itemvalue="JUnit.HotDealsTest.verifyBestSellersProductsPriceArrangeHighToLow" />
+        <item itemvalue="JUnit.HotDealsTest.verifyBestSellersProductsArrangeByZToA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea37a5c9-fe2c-48fd-8aa0-58157617ed80" name="Changes" comment="" />
+      <created>1637704146523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637704146523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping/ShoppingTest.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping/ShoppingTest.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping/ShoppingTest.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping/ShoppingTest.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shopping/ShoppingTest.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
